@@ -1,9 +1,9 @@
 Given a txt file containing a FORTRAN code (problem.txt) with entries that look like this:
 
-c --- 5504 - Al (TOS210D130) universe ---
-c
-550401 104 -2.70 312300 -312301 -311302
-550402 102 -1.00 312300 -312301 311302
+c --- 5504 - Al (TOS210D130) universe --- <br/>
+c <br/>
+550401 104 -2.70 312300 -312301 -311302 <br/>
+550402 102 -1.00 312300 -312301 311302 <br/>
 
 
 This Python Script will do the following:

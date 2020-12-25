@@ -9,7 +9,7 @@ c <br/>
 This Python Script will do the following:
 
 - Ask for User Input:
-- If tht user inputs "A", it will replace the 2nd and 3rd entries of universe 5504 with "102 -1.00". The entries must be separated by at least one space.
+- If the user inputs "A", it will replace the 2nd and 3rd entries of universe 5504 with "102 -1.00". The entries must be separated by at least one space.
 - If the input is "B", do it with the universe 5505.
 - C --> 5506
 - D --> 5507

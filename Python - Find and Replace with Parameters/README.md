@@ -1,3 +1,5 @@
+NOTE: For this task, it was requested that it had to be done in 1 hour.
+
 Given a txt file containing a FORTRAN code (problem.txt) with entries that look like this:
 
 c --- 5504 - Al (TOS210D130) universe --- <br/>
